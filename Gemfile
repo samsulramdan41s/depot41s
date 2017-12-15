@@ -58,3 +58,4 @@ gem 'jquery-ui-rails'
 
 gem 'webpacker', '~>2.0'
 gem 'foreman'
+gem 'bcrypt', '~> 3.1.7'
